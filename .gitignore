@@ -1,3 +1,4 @@
 *.out
-
+*.exim
+*.err
 *.log
